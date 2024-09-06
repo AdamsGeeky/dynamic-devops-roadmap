@@ -62,6 +62,14 @@ Please note that this repo is still a work in progress.
 
 ## The Problem
 
+The landscape of Fullstack Development is ever-evolving, with new tools, frameworks, and technologies appearing every day. Aspiring fullstack engineers face challenges in deciding which technologies to focus on, especially as they navigate both frontend and backend skills.
+
+Many learners follow linear roadmaps that focus solely on acquiring tool-specific skills but struggle to land their first job. Simply learning tools or frameworks is not enough to become an effective fullstack developer. Building real-world experience, understanding modern workflows, and embracing Agile methodologies are crucial to becoming job-ready.
+
+Additionally, many learners lack mentorship, leading to gaps in their practical knowledge and resulting in frustration, career delays, or even dropping out.
+
+
+
 <p align="center">
   <a href="img/cloud-native-landscape-dec-2023-full.png"imageanchor="1">
     <img alt="Cloud Native Landscape Dec 2023" border="0" width="90%" src="img/cloud-native-landscape-dec-2023-cropped.png" />
